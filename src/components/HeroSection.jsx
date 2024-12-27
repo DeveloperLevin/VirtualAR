@@ -4,7 +4,7 @@ import video2 from '../assets/video2.mp4';
 
 const HeroSection = () => {
   return (
-    <div className="flex flex-col justify-center items-center mt-6 lg:mt-20">
+    <div className="flex flex-col justify-center items-center mt-6 lg:mt-16">
         <h1 className='text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide'>VirtualR build tools <span className='bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text'>for developers</span></h1>
         <p className='text-md lg:text-lg text-center text-gray-400 mt-10 max-w-4xl'>Empower your creativiy and bring VR app ideas to life with our intuitive development tools. Get started today and turn you imagination into immersive reality</p>
         <div className='flex justify-center mt-10 space-x-2'>
